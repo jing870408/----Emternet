@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_music"
+        android:icon="@drawable/ic_down_music"
+        android:title="@string/title_music" />
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/ic_down_chat"
+        android:title="@string/title_chat" />
+
+    <item
+        android:id="@+id/navigation_main"
+        android:icon="@drawable/ic_down_main"
+        android:title="@string/title_main" />
+
+    <item
+        android:id="@+id/navigation_mine"
+        android:icon="@drawable/ic_down_mine"
+        android:title="@string/title_mine" />
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/ic_down_setting"
+        android:title="@string/title_setup" />
+
+</menu>

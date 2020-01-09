@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_main">
+
+    <fragment
+        android:id="@+id/navigation_mine"
+        android:name="com.example.emternet.ui.dashboard.DashboardFragment"
+        android:label="@string/title_mine"
+        tools:layout="@layout/fragment_mine" />
+
+    <fragment
+        android:id="@+id/navigation_main"
+        android:name="com.example.emternet.ui.home.HomeFragment"
+        android:label="@string/title_main"
+        tools:layout="@layout/fragment_main" />
+
+    <fragment
+        android:id="@+id/navigation_setting"
+        android:name="com.example.emternet.ui.notifications.NotificationsFragment"
+        android:label="@string/title_setup"
+        tools:layout="@layout/fragment_setting" />
+    <fragment
+        android:id="@+id/navigation_chat"
+        android:name="com.example.emternet.ui.chat.ChatFragment"
+        android:label="@string/title_chat"
+        tools:layout="@layout/fragment_chat" />
+    <fragment
+        android:id="@+id/navigation_music"
+        android:name="com.example.emternet.ui.music.MusicFragment"
+        android:label="@string/title_music"
+        tools:layout="@layout/fragment_music" />
+</navigation>

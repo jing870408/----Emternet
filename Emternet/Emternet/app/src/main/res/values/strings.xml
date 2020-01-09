@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Emternet</string>
+    <string name="title_activity_island">Island</string>
+    <string name="title_main">NeverLand</string>
+    <string name="title_mine">Mine</string>
+    <string name="title_setup">Setup</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_music">Music</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

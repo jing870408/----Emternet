@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Emternet</string>
+    <string name="title_activity_island">Island</string>
+    <string name="title_main">NeverLand</string>
+    <string name="title_mine">Mine</string>
+    <string name="title_setup">Setup</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_music">Music</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="set1">
+ Emternet APP下載後，打開進入登入頁面。第一次使用需要註冊帳號，完成註冊後即可登入。\n
+ 完成登入後，首頁為五大島之地圖，點選島嶼後即可查看自己與朋友心情的所在位置，點選好
+友的名字可以開啟與好友的聊天室。\n
+ 點選音樂選項可以查看本日推薦音樂，每日系統會給使用者一首療癒心情的歌曲。\n
+ 點選好友選項可以觀看好友的心情狀態及開啟聊天室。\n
+ 點選"日曆"選項可以查看最近自己的心情狀態。\n
+ 點選"表單"選項可以自行填入自己今日的心情。\n
+ 在設定的最後可以使用選項登出，確保您的隱私權，祝您使用愉快。
+    </string>
+    <string name="set2">
+
+    </string>
+    <string name="set3">
+        1.\n
+        0920862209以上皆為付費電話\n
+        一般市話及行動電話費率標準計費。\n
+        課服時間:06:00~24:00。\n\n
+        2.\n我們為您提供更迅速的服務\n
+        文字客服服務時間:06:00~24:00。\n\n
+        3.\n
+        請將你的寶貴意見以填寫表單方式送出\n
+        我們將於工作日專人進行回覆。\n
+    </string>
+    <string name="set4">
+
+    </string>
+
+</resources>
